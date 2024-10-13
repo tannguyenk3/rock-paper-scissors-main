@@ -1,2 +1,1 @@
-# rock-paper-scissors
-![image](https://github.com/user-attachments/assets/3007c757-05e8-4d5b-8c9b-8bde181667d5)
+![image](https://github.com/user-attachments/assets/663bf154-96ff-4db3-bbab-cf3f47e25dbf)
